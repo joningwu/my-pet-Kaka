@@ -27,4 +27,13 @@ nav a {
 
 h1 {
     color: #E05D5D;
+    text-align: center;
+}
+
+/* Home page */
+
+.home-page-img {
+    width: 70%;
+    display: block;
+    margin: 0 auto;
 }
