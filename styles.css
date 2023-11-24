@@ -1,3 +1,30 @@
 body {
+    box-sizing: border-box;
+    margin: 0;
+    background-color: #FFF8E5;
+}
 
+/* Navigation Bar */
+
+nav ul {
+    background-color: #E05D5D;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav a {
+    color: #FFF8E5;
+    text-decoration: none;
+}
+
+/* H1 main heading */
+
+h1 {
+    color: #E05D5D;
 }
